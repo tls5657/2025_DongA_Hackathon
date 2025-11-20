@@ -19,9 +19,9 @@
 
 | 모듈 | 설명 |
 | :--- | :--- |
-| **Smart Search** | 조회수, 좋아요, 댓글, 키워드 연관성을 종합한 자체 알고리즘으로 최적의 학습 영상을 추천합니다. |
-| **Auto Summary** | `youtube_transcript_api`로 자막을 추출하고, 로컬 LLM(Llama)이 핵심 내용을 3줄로 요약합니다. |
-| **AI Quiz Gen** | 요약된 내용을 바탕으로 **JSON Schema**를 적용하여 정형화된 객관식 퀴즈(5문항+해설)를 생성합니다. |
+| **Smart Search** | 조회수, 좋아요, 댓글, 키워드 연관성을 종합한 자체 알고리즘으로 최적의 학습 영상을 추천. |
+| **Auto Summary** | `youtube_transcript_api`로 자막을 추출하고, 로컬 LLM(Llama)이 핵심 내용을 3줄로 요약. |
+| **AI Quiz Gen** | 요약된 내용을 바탕으로 **JSON Schema**를 적용하여 정형화된 객관식 퀴즈(5문항+해설)를 생성. |
 
 #### 2. 대학 생활 밀착형 연동 & LMS
 
